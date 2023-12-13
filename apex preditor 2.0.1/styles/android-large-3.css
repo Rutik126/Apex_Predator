@@ -1,0 +1,268 @@
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+}.android-large-3-xS9 {
+  box-sizing: border-box;
+  padding: 0.5rem 0.4rem 1.3rem 0.3rem;
+  width: 100%;
+  height: 947px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.android-large-3-xS9 .auto-group-exlv-TNu {
+  margin: 0rem 1.6rem 4.4rem 25.1rem;
+  width: calc(100% - 26.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-large-3-xS9 .auto-group-exlv-TNu .home-9Wd {
+  margin-right: 1.6rem;
+  cursor: pointer;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.805;
+  color: #ffffff;
+  font-family: Koulen, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.android-large-3-xS9 .auto-group-exlv-TNu .back-TGR {
+  cursor: pointer;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.805;
+  color: #ffffff;
+  font-family: Koulen, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.android-large-3-xS9 .there-will-be-a-entrance-test-abw {
+  margin: 0rem 0rem 1.304rem 0.8rem;
+  max-width: 33.7rem;
+  text-align: center;
+  font-size: 3.3rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Zen Dots, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.android-large-3-xS9 .line-1-fdP {
+  margin: 0rem 0rem 0.896rem 0.1rem;
+  width: 35.2rem;
+  height: 0.4rem;
+  background-color: #413e3e;
+  flex-shrink: 0;
+}
+.android-large-3-xS9 .announcement-Brd {
+  margin: 0rem 9.2rem 0.7rem 0rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  font-family: Marcellus SC, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  background: linear-gradient(180deg, #FFF 16.67%, rgba(255, 255, 255, 0.00) 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.android-large-3-xS9 .this-test-is-for-only-for-the-sy-cse-iot-csbt-student-Huf {
+  margin: 0rem 2.3rem 1.1rem 0rem;
+  max-width: 30.6rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.045rem;
+  color: #47db02;
+  font-family: Koulen, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.android-large-3-xS9 .we-will-select-only-15-students-9ws {
+  margin: 0rem 13rem 1.1rem 0rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.045rem;
+  color: #47db02;
+  font-family: Koulen, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.android-large-3-xS9 .auto-group-hh7s-cKf {
+  margin: 0rem 1.1rem 2.4rem 1rem;
+  width: calc(100% - 2.1rem);
+  height: 7.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.android-large-3-xS9 .auto-group-hh7s-cKf .the-test-will-conducted-on-wednesday-13th-december-at-4-30-pm-jQH {
+  width: 33.2rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.045rem;
+  color: #47db02;
+  font-family: Koulen, 'Source Sans Pro';
+}
+.android-large-3-xS9 .auto-group-hh7s-cKf .your-actions-will-be-strictly-monitored-28V {
+  width: 25rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 5.1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.045rem;
+  color: #47db02;
+  font-family: Koulen, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-large-3-xS9 .line-2-tgV {
+  margin: 0rem 0.1rem 1.3rem 0rem;
+  width: 35.2rem;
+  height: 0.4rem;
+  background-color: #413e3e;
+  flex-shrink: 0;
+}
+.android-large-3-xS9 .rules-oYZ {
+  margin: 0rem 24.6rem 0.4rem 0rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  font-family: Marcellus SC, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  background: linear-gradient(180deg, #FFF 16.67%, rgba(255, 255, 255, 0.00) 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.android-large-3-xS9 .auto-group-w1jm-XjT {
+  margin: 0rem 3.2rem 2.3rem 0rem;
+  width: 29.9rem;
+  height: 17.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.android-large-3-xS9 .auto-group-w1jm-XjT .every-question-is-having-specific-time-limit-eZB {
+  width: 26.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.045rem;
+  color: #47db02;
+  font-family: Koulen, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-large-3-xS9 .auto-group-w1jm-XjT .once-you-select-the-answer-you-cant-revert-it-WbP {
+  width: 29.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 4.2rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.045rem;
+  color: #47db02;
+  font-family: Koulen, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-large-3-xS9 .auto-group-w1jm-XjT .there-are-three-sections-general-knowledge-for-ethical-hacking-networking-basics-linux-basic-abF {
+  width: 30.7rem;
+  height: 10.9rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 6.4rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.045rem;
+  color: #47db02;
+  font-family: Koulen, 'Source Sans Pro';
+}
+/* .android-large-3-xS9 .auto-group-w1jm-XjT .there-are-three-sections-general-knowledge-for-ethical-hacking-networking-basics-linux-basic-abF .there-are-three-sections-general-knowledge-for-ethical-hacking-networking-basics-linux-basic-abF-sub-0 {
+} */
+.android-large-3-xS9 .auto-group-w1jm-XjT .there-are-three-sections-general-knowledge-for-ethical-hacking-networking-basics-linux-basic-abF .there-are-three-sections-general-knowledge-for-ethical-hacking-networking-basics-linux-basic-abF-sub-1 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.045rem;
+  color: #d01313;
+  font-family: Koulen, 'Source Sans Pro';
+}
+.android-large-3-xS9 .auto-group-w1jm-XjT .answer-questions-within-given-time-wTj {
+  width: 22.3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 1.8rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.045rem;
+  color: #47db02;
+  font-family: Koulen, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-large-3-xS9 .auto-group-f7sb-CeZ {
+  margin-left: 15.4rem;
+  width: 16.7rem;
+  height: 3.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.android-large-3-xS9 .auto-group-f7sb-CeZ .rectangle-2-jeV {
+  width: 16.7rem;
+  height: 2.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+  box-shadow: 0 0.4rem 4.4rem rgba(215, 29, 29, 0.3700000048);
+  background-color: #d01313;
+  border-radius: 3rem 0 3rem 0;
+}
+.android-large-3-xS9 .auto-group-f7sb-CeZ .contact-2Nh {
+  width: 8.9rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 3.3rem;
+  top: 0;
+  font-size: 2.7rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Megrim, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}

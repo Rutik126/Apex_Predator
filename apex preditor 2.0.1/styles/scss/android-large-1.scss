@@ -1,0 +1,67 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.android-large-1-PhP {
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+  box-sizing: border-box;
+  padding: 20.5rem 1.5rem 1rem 1.5rem;
+  width: 100%;
+  align-items: center;
+
+  .logo1-1-Uiq {
+    margin-bottom: 30rem;
+    width: 26.6rem;
+    height: 22.6rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+  }
+  .auto-group-ayof-BdF {
+    width: 100%;
+    height: 5.9rem;
+    position: relative;
+    flex-shrink: 0;
+
+    .rectangle-1-Xx1 {
+      cursor: pointer;
+      position: absolute;
+      left: 0;
+      background-color: #d01313;
+      border-radius: 3rem 0 3rem 0;
+      width: 33rem;
+      height: 4.9rem;
+      top: 0;
+      box-shadow: 0 0.4rem 4.4rem rgba(215, 29, 29, 0.3700000048);
+    }
+    .start-Dpq {
+      white-space: nowrap;
+      width: 8.8rem;
+      left: 12rem;
+      font-weight: 400;
+      line-height: 1;
+      color: #ffffff;
+      height: 5.9rem;
+      position: absolute;
+      top: 0;
+      font-size: 5.9rem;
+      font-family: Jomhuria, 'Source Sans Pro';
+    }
+  }
+}

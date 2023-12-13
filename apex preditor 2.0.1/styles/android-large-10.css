@@ -1,0 +1,157 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+}.android-large-10-Ghs {
+  box-sizing: border-box;
+  padding: 0.2rem 1.2rem 1.1rem 1.4rem;
+  width: 100%;
+  height: 947px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.android-large-10-Ghs .auto-group-retd-P1o {
+  margin: 0rem 0.1rem 10.4rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-large-10-Ghs .auto-group-retd-P1o .whitelogo-2-ukq {
+  margin-right: 14.4rem;
+  width: 4.9rem;
+  height: 4.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-large-10-Ghs .auto-group-retd-P1o .home-eCd {
+  margin-right: 1.4rem;
+  cursor: pointer;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.805;
+  color: #ffffff;
+  font-family: Koulen, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.android-large-10-Ghs .auto-group-retd-P1o .rules-kWZ {
+  margin-right: 1.4rem;
+  cursor: pointer;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.805;
+  color: #ffffff;
+  font-family: Koulen, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.android-large-10-Ghs .auto-group-retd-P1o .back-q2D {
+  cursor: pointer;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.805;
+  color: #ffffff;
+  font-family: Koulen, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.android-large-10-Ghs .pratik-3-wL9 {
+  margin: 0rem 1.2rem 3.1rem 0rem;
+  width: 17.4rem;
+  height: 19.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.android-large-10-Ghs .pratik-chavan-atu {
+  margin: 0rem 0.9rem 0.8rem 0rem;
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.2075;
+  color: #ffffff;
+  font-family: Nova Cut, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.android-large-10-Ghs .auto-group-ui7p-J4D {
+  margin: 0rem 7.7rem 1rem 6.9rem;
+  width: calc(100% - 14.6rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large-10-Ghs .auto-group-ui7p-J4D .logo-whatsapp-png-pic-0-3-d6V {
+  margin-right: 1.5rem;
+  width: 2rem;
+  height: 2.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-large-10-Ghs .auto-group-ui7p-J4D .item-8329389682-Yz9 {
+  margin-top: 0.3rem;
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.2075;
+  color: #ffffff;
+  font-family: Nova Cut, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.android-large-10-Ghs .auto-group-fqxh-TbK {
+  margin: 0rem 9.9rem 28.4rem 6.7rem;
+  width: calc(100% - 16.6rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.android-large-10-Ghs .auto-group-fqxh-TbK .linkedin-logo-transparent-116602552215dpnc1i8cu-removebg-preview-1-k4d {
+  margin: 0rem 1.2rem 0.1rem 0rem;
+  width: 2.5rem;
+  height: 2.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-large-10-Ghs .auto-group-fqxh-TbK .pratik-chavan-bL9 {
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2075;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Nova Cut, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.android-large-10-Ghs .devloped-by-rutik-iff {
+  margin-left: 21.5rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.4;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Sarpanch, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
